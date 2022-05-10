@@ -1,0 +1,2 @@
+2022-05-03T09:27:48+00:00 INFO Template setting migrated from D:/XAMPP/xampp/htdocs/wordpress/wp-content/plugins/woocommerce-pdf-invoices-packing-slips/templates/Simple to default/Simple
+2022-05-03T09:27:51+00:00 CRITICAL Table 'j-fashion.wp_wcpdf_invoice_number' doesn't exist

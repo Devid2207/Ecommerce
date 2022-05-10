@@ -1,0 +1,308 @@
+{
+  "accessors": [
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 48656,
+      "max": [
+        311.6337585449219,
+        178.70928955078125,
+        1340.9931640625
+      ],
+      "min": [
+        -304.9761047363281,
+        -162.19325256347656,
+        703.64208984375
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 583872,
+      "componentType": 5126,
+      "count": 48656,
+      "max": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "min": [
+        -0.9999825954437256,
+        -1.0,
+        -1.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 48656,
+      "max": [
+        0.9999998211860657,
+        0.9999998211860657,
+        0.9999991655349731,
+        1.0
+      ],
+      "min": [
+        -1.0,
+        -0.9999999403953552,
+        -0.9999855756759644,
+        -1.0
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 48656,
+      "max": [
+        0.9877782464027405,
+        0.9973997473716736
+      ],
+      "min": [
+        0.0005000000237487257,
+        0.005284924525767565
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 277176,
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "Mariia Moskvina (https://sketchfab.com/mariia89)",
+      "license": "CC-BY-NC-ND-4.0 (http://creativecommons.org/licenses/by-nc-nd/4.0/)",
+      "source": "https://sketchfab.com/3d-models/blouse-from-a-traditional-engraving-f1123616980b4aa2a9cb943f233047bb",
+      "title": "Blouse from a traditional engraving"
+    },
+    "generator": "Sketchfab-13.12.0",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 1108704,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 389248,
+      "byteOffset": 1108704,
+      "byteStride": 8,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1167744,
+      "byteOffset": 1497952,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 778496,
+      "byteOffset": 2665696,
+      "byteStride": 16,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 3444192,
+      "uri": "scene.bin"
+    }
+  ],
+  "images": [
+    {
+      "uri": "textures/Dom_woman_blouse_baseColor.jpeg"
+    },
+    {
+      "uri": "textures/Dom_woman_blouse_metallicRoughness.png"
+    },
+    {
+      "uri": "textures/Dom_woman_blouse_normal.png"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "name": "Dom_woman_blouse",
+      "normalTexture": {
+        "index": 2
+      },
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 0
+        },
+        "metallicRoughnessTexture": {
+          "index": 1
+        }
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "blouse_Dom_woman_blouse_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TANGENT": 2,
+            "TEXCOORD_0": 3
+          },
+          "indices": 4,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        2.220446049250313e-16,
+        -1.0,
+        0.0,
+        0.0,
+        1.0,
+        2.220446049250313e-16,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "Sketchfab_model"
+    },
+    {
+      "children": [
+        2
+      ],
+      "matrix": [
+        0.0010000000474974513,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0010000000474974513,
+        0.0,
+        0.0,
+        -0.0010000000474974513,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "b58f82b71bf0453aaf508b3e3541b7b4.fbx"
+    },
+    {
+      "children": [
+        3
+      ],
+      "name": "RootNode"
+    },
+    {
+      "children": [
+        4
+      ],
+      "matrix": [
+        0.9999999999999544,
+        -2.6469779601696886e-23,
+        3.019916050561595e-07,
+        0.0,
+        3.019916050561595e-07,
+        2.220446049250313e-16,
+        -0.9999999999999545,
+        0.0,
+        -2.6469779601696886e-23,
+        1.0,
+        2.220446049250313e-16,
+        0.0,
+        -3.8472213745117188,
+        0.0,
+        -1.0379315154340806e-15,
+        1.0
+      ],
+      "name": "Domostroj_women"
+    },
+    {
+      "children": [
+        5
+      ],
+      "matrix": [
+        1.0,
+        -5.293955920339376e-23,
+        -2.938735877055718e-39,
+        0.0,
+        5.293955920339376e-23,
+        1.0,
+        0.0,
+        0.0,
+        2.938735877055718e-39,
+        -1.5557538194652847e-61,
+        1.0,
+        0.0,
+        0.5602188110351563,
+        -5.051280975341797,
+        -5.953033447265625,
+        1.0
+      ],
+      "name": "blouse"
+    },
+    {
+      "mesh": 0,
+      "name": "blouse_Dom_woman_blouse_0"
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9987,
+      "wrapS": 10497,
+      "wrapT": 10497
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Sketchfab_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "source": 0
+    },
+    {
+      "sampler": 0,
+      "source": 1
+    },
+    {
+      "sampler": 0,
+      "source": 2
+    }
+  ]
+}

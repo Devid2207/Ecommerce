@@ -1,0 +1,21 @@
+2022-05-09T05:00:19+00:00 INFO Vendor vaccation mode product status update completed.
+2022-05-09T06:29:32+00:00 INFO Vendor vaccation mode product status update completed.
+2022-05-09T06:30:54+00:00 INFO Vendor vaccation mode product status update completed.
+2022-05-09T06:32:39+00:00 INFO Vendor vaccation mode product status update completed.
+2022-05-09T06:33:39+00:00 INFO Vendor vaccation mode product status update completed.
+2022-05-09T06:34:45+00:00 INFO Vendor vaccation mode product status update completed.
+2022-05-09T06:35:26+00:00 INFO Vendor vaccation mode product status update completed.
+2022-05-09T07:01:23+00:00 INFO Vendor vaccation mode product status update completed.
+2022-05-09T07:03:32+00:00 INFO Vendor vaccation mode product status update completed.
+2022-05-09T08:20:22+00:00 INFO Vendor vaccation mode product status update completed.
+2022-05-09T14:10:05+00:00 DEBUG New Order #277 created. Init sub order.
+2022-05-09T14:10:05+00:00 DEBUG Got 2 vendors, starting sub order.
+2022-05-09T14:10:05+00:00 DEBUG Creating sub order for vendor: #2
+2022-05-09T14:10:05+00:00 DEBUG #278 - Creating Shipping.
+2022-05-09T14:10:05+00:00 DEBUG #278 - Adding shipping item.
+2022-05-09T14:10:05+00:00 DEBUG Created sub order : #278
+2022-05-09T14:10:06+00:00 DEBUG Creating sub order for vendor: #5
+2022-05-09T14:10:06+00:00 DEBUG #279 - Creating Shipping.
+2022-05-09T14:10:06+00:00 DEBUG #279 - Adding shipping item.
+2022-05-09T14:10:06+00:00 DEBUG Created sub order : #279
+2022-05-09T14:10:06+00:00 DEBUG Completed sub order for #277.
